@@ -1,0 +1,8 @@
+[
+  {"claim":"WhatsApp Business Platform permite entrada oficial de mensajes y webhooks.","class":"capability","pub_date":"2026-11"},
+  {"claim":"Telegram Bot API permite solicitudes estructuradas.","class":"capability","pub_date":"2026-11"},
+  {"claim":"Cabify documenta API B2B de viajes y logística.","class":"capability","pub_date":"2026-11"},
+  {"claim":"Uber Direct documenta cotización, creación y rastreo.","class":"capability","pub_date":"2026-11"},
+  {"claim":"inDrive prohíbe herramientas no autorizadas.","class":"policy","pub_date":"2026-11"},
+  {"claim":"El transporte colombiano requiere proveedores habilitados.","class":"regulatory","pub_date":"2025-01"}
+]
